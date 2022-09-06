@@ -5,12 +5,12 @@ using Pemex.Foss.HashidsDemo.Api.Core.Model;
 
 namespace Pemex.Foss.HashidsDemo.Api.Core.Features.GetEmpleadosQuery;
 
-public class GetEmpleadosQuery : IRequestHandler<GetEmpleadosQueryArgument, IEnumerable<EmpleadoDto>>
+public class GetEmpleadosQueryHandler : IRequestHandler<GetEmpleadosQueryArgument, IEnumerable<EmpleadoDto>>
 {
     private readonly IEmpleadoRepository _empleadoRepository;
     private readonly IMapper _mapper;
 
-    public GetEmpleadosQuery(IEmpleadoRepository empleadoRepository, IMapper mapper)
+    public GetEmpleadosQueryHandler(IEmpleadoRepository empleadoRepository, IMapper mapper)
     {
         _empleadoRepository = empleadoRepository;
         _mapper = mapper;

@@ -5,13 +5,13 @@ using Pemex.Foss.HashidsDemo.Api.Core.Util;
 
 namespace Pemex.Foss.HashidsDemo.Api.Core.Features.GetEmpleadoByIdQuery;
 
-public class GetEmpleadoByIdQuery : IRequestHandler<GetEmpleadoByIdQueryArgument, EmpleadoDto?>
+public class GetEmpleadoByIdQueryHandler : IRequestHandler<GetEmpleadoByIdQueryArgument, EmpleadoDto?>
 {
     private readonly IEmpleadoRepository _empleadoRepository;
     private readonly IHasher _hasher;
     private readonly IMapper _mapper;
 
-    public GetEmpleadoByIdQuery(IEmpleadoRepository empleadoRepository, IHasher hasher, IMapper mapper)
+    public GetEmpleadoByIdQueryHandler(IEmpleadoRepository empleadoRepository, IHasher hasher, IMapper mapper)
     {
         _empleadoRepository = empleadoRepository;
         _hasher = hasher;
