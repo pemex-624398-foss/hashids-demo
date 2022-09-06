@@ -1,0 +1,17 @@
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Pemex.Foss.HashidsDemo.Console
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.deps.json
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.runtimeconfig.json
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.dll
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/ref/Pemex.Foss.HashidsDemo.Console.dll
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.pdb
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/bin/Debug/net6.0/Hashids.net.dll
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.csproj.AssemblyReference.cache
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.AssemblyInfoInputs.cache
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.AssemblyInfo.cs
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.csproj.CoreCompileInputs.cache
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.csproj.CopyComplete
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.dll
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/ref/Pemex.Foss.HashidsDemo.Console.dll
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.pdb
+/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/obj/Debug/net6.0/Pemex.Foss.HashidsDemo.Console.genruntimeconfig.cache

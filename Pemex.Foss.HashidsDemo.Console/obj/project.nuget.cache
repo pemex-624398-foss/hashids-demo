@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4RTLGqslYliIqEVoXHKJBbegDWiWhU2Iceb9TviPvkB8ueSQgKRTcre6CMd72GHW1WzI/4CtKsGuRYTQW8CqJQ==",
+  "success": true,
+  "projectFilePath": "/Users/adrian/Repos/pemex/foss/hashids/hashids-demo/Pemex.Foss.HashidsDemo.Console/Pemex.Foss.HashidsDemo.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrian/.nuget/packages/hashids.net/1.6.1/hashids.net.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

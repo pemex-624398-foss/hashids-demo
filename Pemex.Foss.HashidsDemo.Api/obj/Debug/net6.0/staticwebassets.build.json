@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1GKsa4k9DYvQel+QmF0RySYroZxchQWSuxu7IjOhgZc=",
+  "Source": "Pemex.Foss.HashidsDemo.Api",
+  "BasePath": "_content/Pemex.Foss.HashidsDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

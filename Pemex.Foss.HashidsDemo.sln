@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pemex.Foss.HashidsDemo.Api", "Pemex.Foss.HashidsDemo.Api\Pemex.Foss.HashidsDemo.Api.csproj", "{012DF903-6367-44A7-B1B6-E07E628529FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pemex.Foss.HashidsDemo.Console", "Pemex.Foss.HashidsDemo.Console\Pemex.Foss.HashidsDemo.Console.csproj", "{FC7C17C5-75D7-4388-973C-CCD49F77E976}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012DF903-6367-44A7-B1B6-E07E628529FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012DF903-6367-44A7-B1B6-E07E628529FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012DF903-6367-44A7-B1B6-E07E628529FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012DF903-6367-44A7-B1B6-E07E628529FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7C17C5-75D7-4388-973C-CCD49F77E976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7C17C5-75D7-4388-973C-CCD49F77E976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7C17C5-75D7-4388-973C-CCD49F77E976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7C17C5-75D7-4388-973C-CCD49F77E976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
